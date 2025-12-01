@@ -14,10 +14,10 @@
 <p>An online store in development where I apply my knowledge in web design, databases, and backend development.</p>
 
 🛠 **Technologies Used:**  
-- ⚡ **Frontend:** HTML, CSS, JavaScript, <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white" /> *(choose one)*  
-- 🖥 **Backend:** <img src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white" /> *(choose one)*  
-- 🗄 **Database:** <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" /> / <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" /> / <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" /> *(choose one)*  
-- **DevOps:** Docker <img src="https://www.docker.com/app/uploads/2024/02/cropped-docker-logo-favicon-32x32.png"/>
+- ⚡ **Frontend:** HTML, CSS, JavaScript, <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white" />   
+- 🖥 **Backend:** <img src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white" /> 
+- 🗄 **Database:** <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" /> / <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" /> / <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />   
+- 🔄️ **DevOps:** <img src="https://www.docker.com/app/uploads/2024/02/cropped-docker-logo-favicon-32x32.png"/>
 ---
 
 ## 📚 Other Projects & Progress  
