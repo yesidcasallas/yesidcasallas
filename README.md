@@ -27,10 +27,19 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<p style="display: flex">
-<a href="https://www.linkedin.com/in/yesidcasallas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yesidcasallas/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/dcsuitsc/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/dcsuitsc/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@Suitcs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@suitcs" height="30" width="40" /></a>
+
+<p>
+  <a href="https://www.linkedin.com/in/yesidcasallas/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  </a>
+
+  <a href="https://www.instagram.com/dcsuitsc/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+  </a>
+
+  <a href="https://www.youtube.com/@Suitcs" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
