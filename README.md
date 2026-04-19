@@ -2,7 +2,7 @@
 
 # Yesid Casallas
 
-**Backend Developer · Bogotá, Colombia 🇨🇴**
+**Backend Developer & Data Engineer · Bogotá, Colombia 🇨🇴**
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-yesidcasallas.online-0f172a?style=for-the-badge)](https://www.yesidcasallas.online/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yesidcasallas/)
@@ -18,7 +18,9 @@
 Passionate backend developer and engineering student, always building and experimenting. Currently developing a full-stack e-commerce platform and exploring new technologies across the stack.
 
 - 🔭 Working on **[Clothing E-Commerce](https://github.com/SuitsG/store)**
-- 🌱 Learning and applying **React, Node.js, Docker**
+- 🌱 Learning and applying **Next.js, Node.js, Docker**
+- 🐍 Building **ETL pipelines** with Python & Pandas for data analysis
+- 🤖 Using **AI-assisted development** daily — GitHub Copilot & Claude
 - 🤝 Open to collaboration on interesting projects
 - 📍 Based in **Bogotá D.C., Colombia**
 
@@ -43,13 +45,15 @@ Passionate backend developer and engineering student, always building and experi
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
-### Frontend
+### Frontend & Frameworks
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 
 ### Backend & Databases
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
@@ -57,6 +61,15 @@ Passionate backend developer and engineering student, always building and experi
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+
+### Data & ETL
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+### AI Tools
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=github&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
 
 ### DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
