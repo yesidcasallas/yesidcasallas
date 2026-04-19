@@ -1,48 +1,80 @@
-<h1 align="center">Hi 👋, I'm Yesid Casallas</h1>
-<h3 align="center">A passionate Backend developer from Bogota D.C, Colombia.</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Engineering%20Student-%F0%9F%92%BB-blue" />
-  <img src="https://img.shields.io/badge/Web%20Development-%F0%9F%9A%80-orange" />
-  <img src="https://img.shields.io/badge/Open%20to%20Collaboration-%E2%9C%85-green" />
-</p>
+# Yesid Casallas
 
---- 
+**Backend Developer · Bogotá, Colombia 🇨🇴**
 
-## 🚀 Main Project  
-<h3>🛍️ <a href="https://github.com/SuitsG/store" target="_blank">Clothing E-Commerce</a></h3>
-<p>An online store in development where I apply my knowledge in web design, databases, and backend development.</p>
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-yesidcasallas.online-0f172a?style=for-the-badge)](https://www.yesidcasallas.online/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yesidcasallas/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dcsuitsc/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Suitcs)
 
-🛠 **Technologies Used:**  
-- ⚡ **Frontend:** HTML, CSS, JavaScript, <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white" />   
-- 🖥 **Backend:** <img src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white" /> 
-- 🗄 **Database:** <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" /> / <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" /> / <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />   
-- 🔄️ **DevOps:** <img src="https://www.docker.com/app/uploads/2024/02/cropped-docker-logo-favicon-32x32.png"/>
+</div>
+
 ---
 
-## 📚 Other Projects & Progress  
-📌 **Academic Projects:** Applications and exercises related to my studies.  
-🔬 **Experimentation:** Testing new technologies and frameworks.  
-📖 **Useful Resources:** Notes and guides to help other students.  
+## 👨‍💻 About Me
 
+Passionate backend developer and engineering student, always building and experimenting. Currently developing a full-stack e-commerce platform and exploring new technologies across the stack.
 
-<h3 align="left">Connect with me:</h3>
+- 🔭 Working on **[Clothing E-Commerce](https://github.com/SuitsG/store)**
+- 🌱 Learning and applying **React, Node.js, Docker**
+- 🤝 Open to collaboration on interesting projects
+- 📍 Based in **Bogotá D.C., Colombia**
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/yesidcasallas/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-  </a>
-  <a href="https://www.instagram.com/dcsuitsc/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
-  </a>
-  <a href="https://www.youtube.com/@Suitcs" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" />
-  </a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+## 🛍️ Main Project — Clothing E-Commerce
 
-## 🌐 Portfolio
-[![Portfolio](https://img.shields.io/badge/Mi_Portfolio-yesidcasallas.online-blue?style=for-the-badge)](https://www.yesidcasallas.online/)
+> An online store in active development applying web design, databases, and backend architecture.
+
+| Layer | Technologies |
+|-------|-------------|
+| **Frontend** | HTML · CSS · JavaScript · React |
+| **Backend** | Node.js |
+| **Database** | MySQL · PostgreSQL · MongoDB |
+| **DevOps** | Docker |
+
+[![View Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SuitsG/store)
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+### Backend & Databases
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+---
+
+## 📚 What You'll Find Here
+
+- 🎓 **Academic Projects** — Applications and exercises from my engineering studies
+- 🔬 **Experiments** — Testing new technologies and frameworks
+- 📖 **Resources** — Notes and guides to help other students
+
+---
+
+<div align="center">
+
+*Let's build something together.*
+
+</div>
