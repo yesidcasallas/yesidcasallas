@@ -8,7 +8,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-yesidcasallas.online-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.yesidcasallas.online/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yesid_Casallas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yesidcasallas/)
-[![Instagram](https://img.shields.io/badge/Instagram-dcsuitsc-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dcsuitsc/)
+[![Instagram](https://img.shields.io/badge/Instagram-dcsuitsc-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yesidcasallasx/)
 [![YouTube](https://img.shields.io/badge/YouTube-Yesid_Casallas-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@yesidcasallasx)
 
 </div>
