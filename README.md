@@ -102,7 +102,7 @@ Full-stack online store developed to apply web design, backend architecture, dat
 | Layer | Technologies |
 | --- | --- |
 | **Frontend** | HTML · CSS · JavaScript · React |
-| **Backend** | Node.js |
+| **Backend** | Node.js · Python |
 | **Databases** | MySQL · PostgreSQL · MongoDB |
 | **DevOps** | Docker · Git · GitHub |
 
